@@ -1,1 +1,4 @@
-float 3
+#floating 
+import time
+# timer
+timed = time.time()
